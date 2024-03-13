@@ -1,0 +1,6 @@
+C:\Code\Visual programming\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Code\Visual programming\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Code\Visual programming\ModelLayer\obj\Debug\ModelLayer.csproj.AssemblyReference.cache
+C:\Code\Visual programming\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Code\Visual programming\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Code\Visual programming\ModelLayer\obj\Debug\ModelLayer.pdb

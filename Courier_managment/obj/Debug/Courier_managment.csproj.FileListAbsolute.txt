@@ -1,0 +1,10 @@
+C:\Code\Visual programming\Courier_managment\bin\Debug\Courier_managment.exe.config
+C:\Code\Visual programming\Courier_managment\bin\Debug\Courier_managment.exe
+C:\Code\Visual programming\Courier_managment\bin\Debug\Courier_managment.pdb
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.csproj.AssemblyReference.cache
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.Form1.resources
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.Properties.Resources.resources
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.csproj.GenerateResource.cache
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.csproj.CoreCompileInputs.cache
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.exe
+C:\Code\Visual programming\Courier_managment\obj\Debug\Courier_managment.pdb

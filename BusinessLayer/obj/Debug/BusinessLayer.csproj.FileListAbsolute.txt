@@ -1,0 +1,15 @@
+C:\Code\Visual programming\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Code\Visual programming\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\ModelLayer.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\System.Memory.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\System.Buffers.dll
+C:\Code\Visual programming\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Code\Visual programming\BusinessLayer\bin\Debug\ModelLayer.pdb
+C:\Code\Visual programming\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Code\Visual programming\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Code\Visual programming\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Code\Visual programming\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Code\Visual programming\BusinessLayer\obj\Debug\BusinessLayer.pdb
